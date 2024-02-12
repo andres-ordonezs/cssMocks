@@ -1,0 +1,5 @@
+Exercise 1
+1. Assign position relative to every element
+2. Add position up & left -> 50px
+
+Exercise 2
